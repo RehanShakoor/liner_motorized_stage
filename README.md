@@ -4,6 +4,7 @@ About project :
 Developed a fully functional working model of a linear motorized stage with precise motion control.  
 Stepper motors are utilized for all motions, ensuring accurate and consistent movement during operation.  
 Arduino Nano is used, there is a controller (LCD + Keypad) to effectively manage and control the stage’s motion.  
+All supporting parts are designed and printed using a 3D printer, Arduino IDE is used for all coding.  
 Successfully utilized the motorized stage to test thin film super capacitors in our Physics Lab experiments.   
 
 Project report filename is  19122018_BTP_report.pdf  
